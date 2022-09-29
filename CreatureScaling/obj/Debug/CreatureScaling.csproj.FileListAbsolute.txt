@@ -1,0 +1,15 @@
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\bin\Debug\CreatureScaling.exe.config
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\bin\Debug\CreatureScaling.exe
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\bin\Debug\CreatureScaling.pdb
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling.csproj.AssemblyReference.cache
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\MainWindow.g.cs
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\App.g.cs
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling_MarkupCompile.cache
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling_MarkupCompile.lref
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\MainWindow.baml
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling.g.resources
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling.Properties.Resources.resources
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling.csproj.GenerateResource.cache
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling.csproj.CoreCompileInputs.cache
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling.exe
+C:\Users\dmorg\Documents\GitHub\DnD-Apps\CreatureScaling\CreatureScaling\obj\Debug\CreatureScaling.pdb
